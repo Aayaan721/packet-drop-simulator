@@ -1,1 +1,8 @@
+# Add dependencies here
+
+# example:
+
+# numpy
+
+# matplotlib
 
