@@ -1,8 +1,4 @@
-# Add dependencies here
+numpy==1.26.4
+matplotlib==3.8.2
 
-# example:
-
-# numpy
-
-# matplotlib
 
